@@ -51,7 +51,7 @@ export class MenuScene extends BaseScene {
         const buttonContainer = new Container();
         const btn = this.createButton( 0);
 
-        btn.position.set(w / 2, h / 2 + 100);
+        btn.position.set(w / 2, h / 2 + 550);
         buttonContainer.addChild(btn);
 
         this.addChild(buttonContainer);

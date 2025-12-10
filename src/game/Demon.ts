@@ -101,11 +101,15 @@ export class Demon extends Container {
 
 
     public pause() {
+        this.eventMode = "none";
+        this.sprite.stop();
         Ticker.shared.remove(this.update, this);
     }
 
     public resume() {
         if (!this.killed) {
+            this.eventMode = "static";
+            this.sprite.play();
             Ticker.shared.add(this.update, this);
         }
     }
