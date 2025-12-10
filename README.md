@@ -1,6 +1,7 @@
 # MyGame
 
 🚀  To Run the Game
+
 Install dependencies
 npm install
 
