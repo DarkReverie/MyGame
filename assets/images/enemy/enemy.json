@@ -1,0 +1,95 @@
+{"frames": {
+
+"enemy_0.png":
+{
+	"frame": {"x":315,"y":1,"w":152,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":16,"w":152,"h":146},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_1.png":
+{
+	"frame": {"x":315,"y":155,"w":152,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":16,"w":152,"h":146},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_2.png":
+{
+	"frame": {"x":1,"y":1,"w":158,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_3.png":
+{
+	"frame": {"x":1,"y":161,"w":158,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_4.png":
+{
+	"frame": {"x":155,"y":1,"w":158,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_5.png":
+{
+	"frame": {"x":161,"y":155,"w":158,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_6.png":
+{
+	"frame": {"x":1,"y":1,"w":158,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_7.png":
+{
+	"frame": {"x":1,"y":161,"w":158,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_8.png":
+{
+	"frame": {"x":1,"y":315,"w":158,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+},
+"enemy_9.png":
+{
+	"frame": {"x":161,"y":315,"w":158,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":158,"h":152},
+	"sourceSize": {"w":200,"h":200}
+}},
+"animations": {
+	"walk": ["enemy_0.png","enemy_1.png","enemy_2.png","enemy_3.png","enemy_4.png","enemy_5.png","enemy_6.png","enemy_7.png","enemy_8.png","enemy_9.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "enemy_frames.png",
+	"format": "RGBA8888",
+	"size": {"w":462,"h":468},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a3e466c32878c1b9ce551c8ccf1a75d7:69ccbda658c811e6e194c46b0922d360:3fb8073cdd311dd7ff88123cafe61dd7$"
+}
+}
